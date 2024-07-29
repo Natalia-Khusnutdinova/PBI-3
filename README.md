@@ -5,7 +5,7 @@
             </div>
         </div>
         <div class="content__main">
-            <h1 class="content__about-header">Аналитический дашборд по мобильным приложениям</h1>
+            <h1 class="content__about-header">Дашборд по продажам и поведению покупателей в супермаркетах Мьянмы</h1>
             <div class="content__main-item">
                 <div class="main-item__description">
                    <h2 class="content__subheader">Цель:</h2>
