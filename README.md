@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <body>
-                <span class="content__description">Добрый день! Меня зовут Наталия. <br/> Ознакомьтесь пожалуйста с одним из моих проектов.  <br/> Здесь вы можете найти опубликованный источник с данными:  <br/> https://public.tableau.com/app/profile/natalia.khusnutdinova/viz/_17121548023750/sheet4</span>
+                <span class="content__description">Добрый день! Меня зовут Наталия. <br/> Ознакомьтесь пожалуйста с одним из моих проектов.  <br/> Здесь вы можете найти опубликованный источник с данными:  <br/> https://www.kaggle.com/datasets/arunjangir245/super-market-sales</span>
                 </nav>
             </div>
         </div>
